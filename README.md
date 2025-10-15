@@ -25,11 +25,11 @@ Here are some of the tools and technologies I work with:
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paarthsiloiya&show_icons=true&theme=dracula&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="Paarth's GitHub Stats" />
   </a>
   <a href="https://github.com/paarthsiloiya">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarthsiloiya&layout=compact&hide_border=true&langs_count=6&theme=transparent" alt="Paarth's Top Languages" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paarthsiloiya&layout=compact&hide_border=true&langs_count=6&theme=dracula" alt="Paarth's Top Languages" />
   </a>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=paarthsiloiya&theme=dracula" alt="Paarth's GitHub Streak" />
+    <a href="https://git.io/streak-stats">
+        <img src="https://streak-stats.demolab.com?user=paarthsiloiya&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    </a>
 </p>
 
 ### 🎓 Education
