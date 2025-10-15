@@ -29,7 +29,7 @@ Here are some of the tools and technologies I work with:
   </a>
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=paarthsiloiya&hide_border=true&theme=transparent&date_format=M+j%5B%2C+Y%5D" alt="Paarth's GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=paarthsiloiya&theme=dracula" alt="Paarth's GitHub Streak" />
 </p>
 
 ### 🎓 Education
