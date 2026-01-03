@@ -16,7 +16,7 @@ Here are some of the tools and technologies I work with:
 |----------|--------------|
 | **Programming Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4169E1?style=for-the-badge&logo=mysql&logoColor=white) |
 | **Data Science Tools** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=matplotlib&logoColor=white) |
-| **AI/ML** | ![scikit-learn](https://img.shields.io/badge/scikit-learn?style=for-the-badge&logo=scikitlearn&logoColor=white&color=%23F7931E) ![pytorch](https://img.shields.io/badge/pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) |
+| **AI/ML** | ![scikit-learn](https://img.shields.io/badge/scikit-learn?style=for-the-badge&logo=scikitlearn&logoColor=white&color=%23F7931E) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) |
 | **Web Development** | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) |
 | **Database** | ![sqlalchemy](https://img.shields.io/badge/sqlalchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white) ![Static Badge](https://img.shields.io/badge/postgresql-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) |
 | **Developer Tools** | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) |
@@ -47,20 +47,21 @@ Here are some of the tools and technologies I work with:
 ## 🧑‍💻 Experience
 #### Competitive Programming
 - Participated in many weekly CP contests by GFG
-- Solved 60+ problems on CodeChef, AtCoder, and Codeforces
+- Solved 150+ problems on CodeChef, AtCoder, and Codeforces
 
 #### Data Structures and Algorithms
 - Aced the PDSA course by IIT Madras
-- Solved 120+ problems on LeetCode and HackerRank
+- Solved 170+ problems on LeetCode and HackerRank
 
 ## 🚀 Top Projects
 [![Readme Card](https://github-readme-stats-iota-wine-89.vercel.app/api/pin/?username=paarthsiloiya&repo=KidsVaccineTracker&theme=dracula&hide_border=true)](https://github.com/paarthsiloiya/KidsVaccineTracker) [![DSA Animations](https://github-readme-stats-iota-wine-89.vercel.app/api/pin/?username=paarthsiloiya&repo=dsa-animations&theme=dracula&hide_border=true)](https://github.com/paarthsiloiya/dsa-animations)  
 [![Console Battleship](https://github-readme-stats-iota-wine-89.vercel.app/api/pin/?username=paarthsiloiya&repo=ClassDeck&theme=dracula&hide_border=true)](https://github.com/paarthsiloiya/ClassDeck) [![Console Minesweeper](https://github-readme-stats-iota-wine-89.vercel.app/api/pin/?username=paarthsiloiya&repo=console-games-collection&theme=dracula&hide_border=true)](https://github.com/paarthsiloiya/console-games-collection)
 
 ## 📬 Get in Touch
-- GitHub: [paarthsiloiya](https://github.com/paarthsiloiya)
-- LinkedIn: [paarth-siloiya](https://linkedin.com/in/paarth-siloiya/)
-- Email: [paaarthsiloiya@gmail.com](mailto:paaarthsiloiya@gmail.com)
+<p align="left">
+<a href="https://linkedin.com/in/paarth-siloiya/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="paarth-siloiya" /></a>
+<a href="mailto:paaarthsiloiya@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="paaarthsiloiya@gmail.com" /></a>
+</p>
 
 ---
 > *As per 03 Jan 2026*
