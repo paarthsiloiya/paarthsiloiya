@@ -34,25 +34,6 @@ Here are some of the tools and technologies I work with:
   </a>
 </p>
 
-## 🎓 Education
-- **B.Tech in Artificial Intelligence and Machine Learning**  
-  Delhi Technical Campus (2024-2028)
-- **BS in Data Science and Application**  
-  Indian Institute of Technology Madras (2024-2028)
-
-## 🏆 Certifications
-- Completed the Foundation course by IIT Madras (2025)
-- Completed the STTP on AI and ML, Organized by Department of Computer Engineering, Jamia Millia Islamia (2024)
-
-## 🧑‍💻 Experience
-#### Competitive Programming
-- Participated in many weekly CP contests by GFG
-- Solved 150+ problems on CodeChef, AtCoder, and Codeforces
-
-#### Data Structures and Algorithms
-- Aced the PDSA course by IIT Madras
-- Solved 170+ problems on LeetCode and HackerRank
-
 ## 🚀 Top Projects
 [![Readme Card](https://github-readme-stats-iota-wine-89.vercel.app/api/pin/?username=paarthsiloiya&repo=KidsVaccineTracker&theme=dracula&hide_border=true)](https://github.com/paarthsiloiya/KidsVaccineTracker) [![DSA Animations](https://github-readme-stats-iota-wine-89.vercel.app/api/pin/?username=paarthsiloiya&repo=dsa-animations&theme=dracula&hide_border=true)](https://github.com/paarthsiloiya/dsa-animations)  
 [![Console Battleship](https://github-readme-stats-iota-wine-89.vercel.app/api/pin/?username=paarthsiloiya&repo=ClassDeck&theme=dracula&hide_border=true)](https://github.com/paarthsiloiya/ClassDeck) [![Console Minesweeper](https://github-readme-stats-iota-wine-89.vercel.app/api/pin/?username=paarthsiloiya&repo=console-games-collection&theme=dracula&hide_border=true)](https://github.com/paarthsiloiya/console-games-collection)
