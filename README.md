@@ -40,16 +40,6 @@ Here are some of the tools and technologies I work with:
   <a href="https://www.hackerrank.com/profile/paaarthsiloiya" target="blank"><img height="40em" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
 </p>
 
-## 🎓 Education
-- **B.Tech in Artificial Intelligence and Machine Learning**  
-  Delhi Technical Campus (2024-2028)
-- **BS in Data Science and Application**  
-  Indian Institute of Technology Madras (2024-2028)
-
-## 🏆 Certifications
-- Completed the Foundation course by IIT Madras (2025)
-- Completed the STTP on AI and ML, Organized by Department of Computer Engineering, Jamia Millia Islamia (2024)
-
 ## 🧑‍💻 Experience
 #### Competitive Programming
 - Participated in many weekly CP contests by GFG
